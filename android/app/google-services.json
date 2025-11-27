@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920380903268",
+    "project_id": "nixen-700cc",
+    "storage_bucket": "nixen-700cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920380903268:android:d7a9ed92d118841c7d3471",
+        "android_client_info": {
+          "package_name": "com.nixen.nixen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7iPscUoi9naLJmdg7DJ7wNsrOhAB1h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
